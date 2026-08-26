@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/coreos/go-oidc/v3 v3.11.0
-	github.com/getkin/kin-openapi v0.127.0
+	github.com/getkin/kin-openapi v0.144.0
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/google/uuid v1.6.0
